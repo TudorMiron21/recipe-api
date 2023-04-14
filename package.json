@@ -6,8 +6,6 @@
   "type": "module",
   "scripts": {
     "start": "node index.js"
-
-
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
